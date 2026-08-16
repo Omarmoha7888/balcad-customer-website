@@ -1,0 +1,1 @@
+Replace this placeholder area with the official Balcad Travel Agency logo/image when you upload it as a file to the repository. The current site uses a text/letter brand mark so the project remains runnable without missing image files.
